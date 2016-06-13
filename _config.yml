@@ -1,14 +1,8 @@
 layout_spectrum: 0
-typography_spectrum: 0.05197133
 color:
-  saturation: 1
-  lightness: 0.7741935
+  saturation: 0.3942652
   brandStrength: 0.7114695
+  lightness: 1
   rhythmicContrast: 0.04121864
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+typography_spectrum: 0.05197133
 name: KINGKONG IS A DOG
