@@ -1,8 +1,23 @@
+name: KINGKONG IS A DOG
+favicon: null
 layout_spectrum: 0
+typography_spectrum: 0.05739
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3942652
+  brandColors: []
   brandStrength: 0.7114695
   lightness: 1
+  saturation: 0.3942652
   rhythmicContrast: 0.04121864
-typography_spectrum: 0.05197133
-name: KINGKONG IS A DOG
+purpose: []
